@@ -1,0 +1,35 @@
+1) Question 1: Introduce yourself:
+
+ Hi,
+
+ My name is Nourhen, I’m 29 years old, I’m from Tunisia, and I was born in Gabès on June 12,1993.
+ I have a bachelor in Science, then I have attended higher institute of applied science and technology of gabes,
+ I having a diploma of higher technician in industrial chemistry and process, 
+ and in parallel I study network and computer security at polytechnic center.
+ I have studied also web develepment basic on Java Script for front-and-back-end.
+ I speak 5 languages: Arbic, french, English,Italian and Turkish. And I have Experience with a Elka-Consulting.
+
+ 2) Question 2: Name three reasons that you should be recruited instead of another candidate:
+
+ -I don't mind working alone or in a group
+ -I love what I do and give my work my effort and time to add 
+  more things to develop my work
+ -I am motivated and active
+
+ 3) Question 3: Are you responsible?
+
+ Yes I am a responsible person, I am able to consciously make decisions, conduct behaviors that seek to improve oneself and help others.
+ And of course I accept the consequences of my own actions and decisions.
+
+ 4) Question 4: Tell me about your academic training.
+
+ I have a bachelor in Science, then I have attended higher institute of applied science and technology of gabes,
+ I having a diploma of higher technician in industrial chemistry and process
+ and in parallel I studying network and computer security at polytechnic center.
+ I have studied also web develepment basic on Java Script for front-and-back-end.
+
+ 5) Question 5: Name three of your flaws:
+
+ - Inexperience with specific software
+ - I focus too much on the details.
+ - I have trouble saying “no”
